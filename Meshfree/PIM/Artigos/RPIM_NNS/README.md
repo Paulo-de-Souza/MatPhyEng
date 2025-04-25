@@ -1,5 +1,7 @@
 Artigo disponível originalmente em: [A robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for nonlinear solid mechanics](https://www.sciencedirect.com/science/article/pii/S0045782524004158)
 
+Codigos dos autores disponiveis em: [https://github.com/JinshuaiBai/RPIM_NNS]
+
 Citar os autores:
 ```bibliography
 @article{bai2024robust,
