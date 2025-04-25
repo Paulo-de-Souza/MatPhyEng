@@ -1,7 +1,5 @@
 Artigo original no link: [A boundary point interpolation method for stress analysis of solids](https://link.springer.com/article/10.1007/s00466-001-0268-9)
 
-Codigos dos autores disponiveis em: [https://github.com/JinshuaiBai/RPIM_NNS]
-
 Para citar os autores:
 ```bibliography
 @article{gu2002boundary,
